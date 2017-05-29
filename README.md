@@ -13,7 +13,7 @@ apt-get install libgit2-dev python3-cffi python3-yaml
 
 and on OSX/macOS:
 ```
-brew install libgit2 libyaml
+brew install libgit2 libyaml python-cffi
 ```
 
 Then install the Python requirements:
