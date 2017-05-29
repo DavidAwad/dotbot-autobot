@@ -1,4 +1,4 @@
-# vim: set filetype=python:
+#!/usr/local/bin/python3
 
 """
 Automatically update your Dotbot config file when new files are committed in Git

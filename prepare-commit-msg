@@ -1,4 +1,4 @@
-# vim: set filetype=python:
+#!/usr/local/bin/python3
 
 """
 Add a reminder to your commit message
