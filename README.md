@@ -55,3 +55,8 @@ Options are configurable through environment variables:
 
 - Wildcard include/exclude
 - Gitignore parsing
+
+### Troubleshooting
+ - make sure you've installed the latest **matching** versions of cffi and pygit2
+ - make sure you have the correct shebang at the top of the hook scripts
+
